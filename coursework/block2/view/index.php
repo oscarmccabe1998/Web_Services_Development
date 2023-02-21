@@ -30,7 +30,7 @@
 
   	    <?php 
   	    	//  connect to the live URL
-              //$api = "bc6bf85a0eeebc789f5b2d626ca23c2a" ;
+
   		      //$url = "https://api.openweathermap.org/data/2.5/weather?q=Glasgow&appid=".$api."&mode=xml" ;
   		    //  Or for testing use the local data
   		    //$url = "../model/glasgow-weather.xml" ;
