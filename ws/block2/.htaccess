@@ -1,0 +1,9 @@
+# Turn on the rewriting engine
+RewriteEngine On    
+
+# Rewrite rules for MOST Apache servers
+RewriteRule ^employees/?$ article.php [NC,L]
+#RewriteRule ^employees/([0-9]+)?$ employees.php?id=$1 [NC,L]
+
+# Rewrite rules for Abertay Server
+RewriteRule ^employees.php/([0-9]+)?$ article.php?id=$1 [NC,L]

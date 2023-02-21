@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- A link to our XSLT stylesheet will go here! -->
+<?xml-stylesheet href="/style.xsl" type="text/xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"/>

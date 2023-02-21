@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+<city id="2648579" name="Glasgow">
+<coord lon="-4.2576" lat="55.8652"/>
+<country>GB</country>
+<timezone>3600</timezone>
+<sun rise="2022-10-25T07:08:15" set="2022-10-25T16:53:43"/>
+</city>
+<temperature value="284.98" min="284.35" max="285.49" unit="kelvin"/>
+<feels_like value="284.52" unit="kelvin"/>
+<humidity value="88" unit="%"/>
+<pressure value="1008" unit="hPa"/>
+<wind>
+<speed value="7.2" unit="m/s" name="Moderate breeze"/>
+<gusts/>
+<direction value="200" code="SSW" name="South-southwest"/>
+</wind>
+<clouds value="40" name="scattered clouds"/>
+<visibility value="10000"/>
+<precipitation mode="no"/>
+<weather number="802" value="scattered clouds" icon="03d"/>
+<lastupdate value="2022-10-25T09:35:02"/>
+</current>
