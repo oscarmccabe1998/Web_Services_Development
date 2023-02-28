@@ -1,6 +1,6 @@
 <?php //  function to get the weather- cached
 function getWeatherXML() {
-	$api = "api Key" ;
+	$api = "apiKey" ;
   	$url = "https://api.openweathermap.org/data/2.5/weather?q=Glasgow&appid=".$api."&mode=xml" ;
 	$cache_file = "../model/glasgow-weather.xml" ;
 		
